@@ -1,0 +1,107 @@
+[
+  {
+    "name": "CockroachDB",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "ElasticSearch",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Vault",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "SQLite",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "GoLang",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Elixir",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "NextJS",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "PHP",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "EFK",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Go Feature Flag",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Feature flags lets you modify system behavior without changing code. Deploy every day, release when you are ready. Reduce risk by releasing your features progressively."
+  },
+  {
+    "name": "Gitlab Builder",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Modular Architecture",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Microservice Architecture",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Websocket User Presence",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  },
+  {
+    "name": "Monolith Architecture",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  }
+]
