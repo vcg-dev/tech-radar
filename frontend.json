@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Javascript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "JavaScript is our main programming language for FrontEnd"
+  },
+  {
+    "name": "ES6+",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Modern JS standard"
+  },
+  {
+    "name": "Typescript v.5",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "TypeScript helps to abstract our development"
+  },
+  {
+    "name": "ReactJS v.18",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Javascript Library"
+  },
+  {
+    "name": "NextJS v.13 Page Router",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Serverside rendering frontend apps with ReactJS"
+  },
+  {
+    "name": "CSS 3",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Defacto styling standard"
+  },
+  {
+    "name": "TailwindCSS",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Utility first CSS to style UI faster"
+  },
+  {
+    "name": "Material UI",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Customizeable pre made component UI Library"
+  },
+  {
+    "name": "HTML 5",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Defacto web styling standard"
+  },
+  {
+    "name": "Jest 29",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Simple test runner. It's proven to be fast to code and run. Moreover, it's very easy to scale"
+  },
+  {
+    "name": "Jotai",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "State management for React. Used on seller apps"
+  },
+  {
+    "name": "Tanstack Query v4",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Hooks for managing, caching and syncing asynchronous and remote data in React"
+  },
+  {
+    "name": "Axios",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Axios is a popular JavaScript library used for making HTTP requests from node.js or XMLHttpRequests from the browser."
+  },
+  {
+    "name": "Vitest",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Vitest is a modern testing framework for JavaScript, known for its fast performance and compatibility with Vite."
+  },
+  {
+    "name": "Chartjs",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Chartjs is a flexible and customizable JavaScript charting library that helps in creating interactive visualizations on websites."
+  },
+  {
+    "name": "Dayjs",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Dayjs is a lightweight JavaScript library for parsing, validating, manipulating, and displaying dates and times."
+  },
+  {
+    "name": "Socket IO",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Socket IO is a JavaScript library for real-time web applications, enabling real-time, bidirectional, and event-based communication."
+  },
+  {
+    "name": "Firebase",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Firebase is a comprehensive app development platform by Google, providing tools and infrastructure to build and grow apps."
+  },
+  {
+    "name": "Eslint",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Eslint is a static code analysis tool for identifying and fixing problems in JavaScript code, widely used to enforce coding standards."
+  },
+  {
+    "name": "AntDesign",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "AntDesign is a design system and React UI library for enterprise-level products, known for its high-quality components and best practices."
+  },
+  {
+    "name": "Recoil",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Recoil is a state management library for React, providing a more flexible and efficient way to manage global state in large applications."
+  },
+  {
+    "name": "i18next",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "i18next is an internationalization framework for JavaScript, making it easier to translate content into multiple languages."
+  },
+  {
+    "name": "Zod",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Zod is a TypeScript-first schema validation library, allowing developers to build and validate complex data structures easily."
+  },
+  {
+    "name": "NGINX",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "NGINX is a high-performance web server, reverse proxy, and HTTP cache, known for its stability, rich feature set, and low resource consumption."
+  },
+  {
+    "name": "SonarQube",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "SonarQube is an open-source platform for continuous inspection of code quality, offering static code analysis to detect bugs and code smells."
+  },
+  {
+    "name": "Containerd",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Containerd is an industry-standard container runtime with an emphasis on simplicity, robustness, and portability, used in production environments."
+  },
+  {
+    "name": "ArgoCD",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes, allowing for automatic application deployment and management."
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Docker is a platform for developing, shipping, and running applications inside lightweight, portable containers, enhancing consistency across environments."
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications, widely recognized for its powerful orchestration capabilities."
+  },
+  {
+    "name": "Yarn v1.2.27",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Javascript package manager"
+  },
+  {
+    "name": "Atomic Design",
+    "ring": "adopt",
+    "quadrant": "Technique",
+    "isNew": "FALSE",
+    "description": "Atomic design is atoms, molecules, organisms, templates, and pages concurrently working together to create effective interface design systems"
+  }
+]
