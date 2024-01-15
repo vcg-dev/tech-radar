@@ -1,7 +1,7 @@
 ## VCGamers.com Tech Radar 
 
 - Backend : [VCGamers Backend](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fvcg-dev%2Ftech-radar%2Fmain%2Fbackend.json)
-- Frontend : [VCGamers Frontend](https://vcgamers.com)
+- Frontend : [VCGamers Frontend](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fvcg-dev%2Ftech-radar%2Fmain%2Ffrontend.json)
 
 ## What is the Tech Radar?
 
