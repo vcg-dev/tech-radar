@@ -148,7 +148,7 @@
   },
   {
     "name": "PM2",
-    "ring": "adopt",
+    "ring": "hold",
     "quadrant": "Tools",
     "isNew": "TRUE",
     "description": "Advanced process manager for production Node.js applications. Load balancer, logs facility, startup script, micro service management, at a glance."
