@@ -4,63 +4,154 @@
     "ring": "adopt",
     "quadrant": "Platforms",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Distributed database with standard SQL for cloud applications"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker"
+  },
+  {
+    "name": "KrakenD",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "KrakenD is a high-performance Open Source API Gateway that enables you to build scalable and resilient microservices architectures."
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Ppen-source message-broker software that originally implemented the Advanced Message Queuing Protocol and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol"
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Advanced open source database"
   },
   {
     "name": "ElasticSearch",
     "ring": "assess",
     "quadrant": "Platforms",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Distributed, RESTful search and analytics engine"
   },
   {
     "name": "Vault",
     "ring": "trial",
     "quadrant": "Platforms",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "Vault provides encryption as a service with centralized key management to simplify encrypting data in transit and stored across clouds and datacenters"
   },
   {
     "name": "SQLite",
     "ring": "hold",
     "quadrant": "Platforms",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine"
+  },
+  {
+    "name": "MongoDB",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Source-available, cross-platform, document-oriented database program"
+  },
+  {
+    "name": "MySQL",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Open-source relational database management system"
   },
   {
     "name": "GoLang",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Go is a statically typed, compiled high-level programming language designed at Google"
+  },
+  {
+    "name": "Go-Fiber",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Go web framework built on top of Fasthttp, the fastest HTTP engine for Go"
   },
   {
     "name": "Elixir",
     "ring": "assess",
     "quadrant": "Languages and Frameworks",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language"
   },
   {
-    "name": "NextJS",
-    "ring": "trial",
+    "name": "CodeIgniter",
+    "ring": "hold",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "CodeIgniter is an free and open-source software rapid development web framework, for use in building dynamic web sites with PHP"
   },
   {
     "name": "PHP",
     "ring": "hold",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "A popular general-purpose scripting language that is especially suited to web development"
   },
   {
-    "name": "EFK",
+    "name": "NodeJS",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "name": "ELK",
     "ring": "adopt",
     "quadrant": "Tools",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Elasticsearch, Logstash, and Kibana. Elasticsearch is the engine of the Elastic Stack, which provides analytics and search functionalities. Logstash is responsible for collecting, aggregating, and storing data to be used by Elasticsearch"
+  },
+  {
+    "name": "Traefik",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Traefik Hub is a Kubernetes-native API Management solution for publishing, securing, and managing APIs, with support for multiple third-party ingress"
+  },
+  {
+    "name": "NGINX",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers"
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications"
+  },
+  {
+    "name": "PM2",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Advanced process manager for production Node.js applications. Load balancer, logs facility, startup script, micro service management, at a glance."
   },
   {
     "name": "Go Feature Flag",
@@ -70,38 +161,73 @@
     "description": "Feature flags lets you modify system behavior without changing code. Deploy every day, release when you are ready. Reduce risk by releasing your features progressively."
   },
   {
-    "name": "Gitlab Builder",
+    "name": "Gitlab CI",
     "ring": "trial",
     "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Aims to provide build automation, test automation, pipeline config management, artifact storage, and pipeline security in a single set of features"
+  },
+  {
+    "name": "GORM",
+    "ring": "hold",
+    "quadrant": "Tools",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "The fantastic ORM library for Golang"
+  },
+  {
+    "name": "Squirrel",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Fluent SQL generator for Go"
+  },
+  {
+    "name": "Mockery",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Provides the ability to easily generate mocks for Golang interfaces"
+  },
+  {
+    "name": "Redsync",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Distributed mutual exclusion lock using Redis for Go"
   },
   {
     "name": "Modular Architecture",
     "ring": "adopt",
     "quadrant": "Techniques",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Separate elements of a building that are prefabricated in isolation, then combined with other modules to create a unit"
+  },
+  {
+    "name": "Hexagonal Architecture",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "The hexagonal architecture, or ports and adapters architecture, is an architectural pattern used in software design"
   },
   {
     "name": "Microservice Architecture",
     "ring": "assess",
     "quadrant": "Techniques",
     "isNew": "TRUE",
-    "description": "Command Patterns"
+    "description": "Service-oriented architecture structural style. It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating through lightweight protocols"
   },
   {
     "name": "Websocket User Presence",
     "ring": "trial",
     "quadrant": "Techniques",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "Computer communications protocol, providing simultaneous two-way communication channels over a single Transmission Control Protocol connection"
   },
   {
     "name": "Monolith Architecture",
     "ring": "hold",
     "quadrant": "Techniques",
     "isNew": "FALSE",
-    "description": "Command Patterns"
+    "description": "Traditional model of a software program, which is built as a unified unit that is self-contained and independent from other applications"
   }
 ]
